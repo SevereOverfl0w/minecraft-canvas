@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-canvas",
+  "version": "0.0.1",
+  "authors": [
+    "Severe"
+  ],
+  "description": "A package to help display minecraft skins in the canvas",
+  "main": "mcCanvas.js",
+  "keywords": [
+    "minecraft",
+    "canvas"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ]
+}
